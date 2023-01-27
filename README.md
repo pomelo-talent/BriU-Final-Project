@@ -11,21 +11,21 @@ Our clients expects that a user can search for some terminologies to listen to c
 
 ### Website Structure Diagram
 
-.
-└── Home Page  
-    ├── Library & Search Page  
-    │   └── Search Result List Page  
-    │       └── Result Content Page  
+.  
+└─ Home Page  
+    ├─ Library & Search Page  
+    │   └─ Search Result List Page  
+    │       └─ Result Content Page  
     │  
-    ├── Self-test Page  
+    ├─ Self-test Page  
     │  
-    ├── Tutorial Page  
+    ├─ Tutorial Page  
     │  
-    ├── My Account Page  
-    │   └── My Collection Page  
+    ├─ My Account Page  
+    │   └─ My Collection Page  
     │  
-    └── Admin Management System  
-.
+    └─ Admin Management System  
+.  
 
 
 ### Website Functionality
