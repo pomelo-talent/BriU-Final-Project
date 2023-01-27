@@ -10,8 +10,7 @@ The inspiration of our website is that our client, the vet school of Bristol Uni
 Our clients expects that a user can search for some terminologies to listen to corresponding animal sounds, take quizzes to test their knowledge, and watch some tutorial videos on the website. To fulfill the above-mentioned needs, the structure of the website is designed as below.
 
 ### Website Structure Diagram
-
-.  
+```
 └─ Home Page  
     ├─ Library & Search Page  
     │   └─ Search Result List Page  
@@ -25,7 +24,7 @@ Our clients expects that a user can search for some terminologies to listen to c
     │   └─ My Collection Page  
     │  
     └─ Admin Management System  
-.  
+```
 
 
 ### Website Functionality
@@ -45,7 +44,7 @@ In this project, we separate front-end and back-end.
 We apply Html5+CSS+JavaScript as front-end technologies and Java with SQL database as back-end technologies. In the front-end development, we use VUE framework. Relevant code can be found in the web folder. In the back-end development, we use SpringBoot framework. Relevant code can be found in the src folder. 
 As we build java project with Maven, our project can be tested by DemoApplicationTests.java in the test folder. Moreover, the configuration information is included in the pom.xml file.
 
-. 
+```
 ├── .idea
 │
 ├── node_modules
@@ -142,7 +141,7 @@ As we build java project with Maven, our project can be tested by DemoApplicatio
 ├── pom.xml
 │
 └── README.md
-.
+```
 
 ## Version Documentation
 We have mainly maintained 2 versions of the project in GitHub due to agile development.
